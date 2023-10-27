@@ -1,5 +1,5 @@
 <?php
-$username = "root";
-$password = "";
-$database = new PDO("mysql:host=localhost; dbname=neqapa;",$username,$password);
+$username = "default";
+$password = "tYNwUT9JrW8g";
+$database = new PDO("mysql:host=ep-tight-snowflake-51674967-pooler.us-east-1.postgres.vercel-storage.com; dbname=verceldb;",$username,$password);
 ?>
